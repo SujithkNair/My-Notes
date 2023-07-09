@@ -1,7 +1,8 @@
-# My-Notes
-My first repo
- I know this is something new to me and one of the easiest concept in this course. 
- However, i did not get a chance to explore this one until i started this course. 
+Ansible Setup for Lab Practice
+* Create 3 virtual servers in AWS or Azure.
+* Rename the Server name as follows 
+   - Control
+   - node1
+   - node2
 
- This is for Testing purpose
  
